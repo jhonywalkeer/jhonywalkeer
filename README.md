@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Snake animation](https://github.com/JhonyWalker-pixel/JhonyWalker-pixel/blob/output/github-contribution-grid-snake.svg)
+<h1 align="center">
+    <img width="100%" title="PAC MAN - Commits" src="./assets/fundo-pac.svg" />
+</h1>
 
 <!--
 **JhonyWalker-pixel/JhonyWalker-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
