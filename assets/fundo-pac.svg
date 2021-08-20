@@ -3,45 +3,82 @@
   <style>
     .Pacman_Boca_Aberta_26 {
       animation: 2.6s linear 0s infinite normal forwards running Pacman_Boca_Aberta_26;
-      transform: translateX(435.5px) translateY(132.5px) rotate(0deg);
+      transform: translateX(390px) translateY(130px) rotate(0deg);
     }
 
     @keyframes Pacman_Boca_Aberta_26 {
       0% {
-        transform: translateX(370px) translateY(130px) rotate(0deg);
+        transform: translateX(430px) translateY(130px) rotate(0deg);
       }
 
-      10% {
-        transform: translateX(520px) translateY(130px) rotate(0deg);
+      5.10% {
+        transform: translateX(510px) translateY(130px) rotate(0deg);
       }
 
-      20% {
-        transform: translateX(520px) translateY(130px) rotate(-90deg);
+      10.10% {
+        transform: translateX(510px) translateY(110px) rotate(-90deg);
       }
 
-      30% {
-        transform: translateX(520px) translateY(110px) rotate(-180deg);
+      15.10% {
+        transform: translateX(470px) translateY(110px) rotate(-180deg);
       }
 
-      40% {
-        transform: translateX(450px) translateY(110px) rotate(-180deg);
+      20.10% {
+        transform: translateX(440px) translateY(60px) rotate(-90deg);
       }
 
-      50% {
-        transform: translateX(450px) translateY(60px) rotate(-90deg);
+      25.10% {
+        transform: translateX(470px) translateY(60px) rotate(-180deg);
       }
 
-      60% {
+      30.10% {
         transform: translateX(340px) translateY(60px) rotate(-180deg);
       }
 
-      70% {
-        transform: translateX(340px) translateY(40px) rotate(-90deg);
+      35.10% {
+        transform: translateX(320px) translateY(60px) rotate(-90deg);
       }
 
-      80% {
-        transform: translateX(230px) translateY(40px) rotate(-180deg);
+      40.10% {
+        transform: translateX(320px) translateY(40px) rotate(-90deg);
       }
+
+      45.10% {
+        transform: translateX(220px) translateY(40px) rotate(-180deg);
+      }
+
+      50.10% {
+        transform: translateX(350px) translateY(40px) rotate(180deg);
+      }
+
+      55.10% {
+        transform: translateX(350px) translateY(40px) rotate(90deg);
+      }
+
+      60.10% {
+        transform: translateX(480px) translateY(60px) rotate(180deg);
+      }
+
+      65.10% {
+        transform: translateX(480px) translateY(82px) rotate(90deg);
+      }
+
+      70.10% {
+        transform: translateX(550px) translateY(110px) rotate(180deg);
+      }
+
+      85.10% {
+        transform: translateX(550px) translateY(130px) rotate(90deg);
+      }
+
+      90.10% {
+        transform: translateX(400px) translateY(160px) rotate(-180deg);
+      }
+
+      100% {
+        transform: translateX(410px) translateY(140px) rotate(0deg);
+      }
+    }
   </style>
   <g clip-path="url(#clip_0_287)" width="880" height="192" data-name="PACMAN (Frame 01)">
     <g transform="translate(10 7)" width="861" height="175" data-name="Grid e commits">
