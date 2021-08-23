@@ -30,7 +30,7 @@ Dentre os projetos que participei na minha carreira:
 
 <img align="center" alt="MongoDB" height="40" width="40" src="./assets/icons/sql.svg">
 
-## Softwares
+## Softwares e sistemas
 
 ---
 
