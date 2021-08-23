@@ -4,6 +4,8 @@
     <img width="100%" title="PACMAN - Commits" src="./assets/animations/fundo-pac.svg" />
 </h1>
 
+:brazil:
+
 Sou desenvolvedor full-stack focado em Javascript sendo um estudante eterno procurando constante aperfeiçoamento, trabalhando para obter reconhecimento e atingir os melhores resultados e objetivos indo em busca do crescimento pessoal e profissional mas mantendo o foco. Enxergo os desafios como oportunidades de criar novas soluções e otimizar processos.
 
 Dentre os projetos que participei na minha carreira:
@@ -13,6 +15,18 @@ Dentre os projetos que participei na minha carreira:
 - Desenvolvimento do chatbot vinculado ao app da [TORA Transportes LTDA](https://tora.com.br/) utilizando os conceitos básicos de UX writing além de implementações da comunicação externa utilizada pelo mesmo.
 
 - Participação na concepção de telas do app da [TORA Transportes LTDA](https://tora.com.br/) e do portal utilizado internamente pelos colaboradoores com mais de 4 mil usuários ativos.
+
+:us:
+
+I'm a full-stack developer focused on Javascript, being an eternal student looking for constant improvement, working to get recognition and achieve the best results and goals going in search of personal and professional growth but keeping the focus. I see challenges as opportunities to create new solutions and optimize processes.
+
+Among the projects I participated in my career:
+
+- Development of a contact list to connect the employees of [TORA Transportes LTDA](https://tora.com.br/) in a simple but effective way, implementing the back-end and front-end part in addition to the implementation of security to avoid changing user information without admin privileges linked to Microsoft Azure.
+
+- Development of the chatbot linked to the [TORA Transportes LTDA] (https://tora.com.br/) app using the basic concepts of UX writing as well as implementations of the external communication used by it.
+
+- Participation in the design of the app screens of [TORA Transportes LTDA](https://tora.com.br/) and the portal used internally by employees with more than 4 thousand active users.
 
 ## Tecnologias
 
