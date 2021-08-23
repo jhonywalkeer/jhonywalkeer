@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">
-    <img width="100%" title="PAC MAN - Commits" src="./assets/animations/fundo-pac.svg" />
+    <img width="100%" title="PACMAN - Commits" src="./assets/animations/fundo-pac.svg" />
 </h1>
 
 <!--
