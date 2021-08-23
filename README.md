@@ -45,6 +45,7 @@ Among the projects I participated in my career:
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Visual Studio Code" height="40" width="40" src="./assets/icons/vscode.svg">
+<img align="center" alt="Visual Studio Code" height="40" width="40" src="./assets/icons/azure.svg">
 <img align="center" alt="Figma" height="40" width="40" src="./assets/icons/figma.svg">
 <img align="center" alt="Adobe Photoshop" height="40" width="40" src="./assets/icons/ps.svg">
 <img align="center" alt="Adobe Illustrator" height="40" width="40" src="./assets/icons/ai.svg">
