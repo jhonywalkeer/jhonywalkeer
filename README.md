@@ -4,6 +4,16 @@
     <img width="100%" title="PACMAN - Commits" src="./assets/animations/fundo-pac.svg" />
 </h1>
 
+<img align="center" alt="ReactJS" height="40" width="40" src="./assets/icons/js.svg">
+
+<img align="center" alt="ReactJS" height="40" width="40" src="./assets/icons/reactjs.svg">
+
+<img align="center" alt="ReactJS" height="40" width="40" src="./assets/icons/nodejs.svg">
+
+<img align="center" alt="ReactJS" height="40" width="40" src="./assets/icons/reactjs.svg">
+
+<img align="center" alt="ReactJS" height="40" width="40" src="./assets/icons/reactjs.svg">
+
 <!--
 **JhonyWalker-pixel/JhonyWalker-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
