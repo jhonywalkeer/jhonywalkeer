@@ -16,6 +16,8 @@ Dentre os projetos que participei na minha carreira:
 
 - Participação na concepção de telas do app da [TORA Transportes LTDA](https://tora.com.br/) e do portal utilizado internamente pelos colaboradoores com mais de 4 mil usuários ativos.
 
+------
+
 :us:
 
 I'm a full-stack developer focused on Javascript, being an eternal student looking for constant improvement, working to get recognition and achieve the best results and goals going in search of personal and professional growth but keeping the focus. I see challenges as opportunities to create new solutions and optimize processes.
