@@ -4,7 +4,7 @@
     <img width="100%" title="PACMAN - Commits" src="./assets/animations/fundo-pac.svg" />
 </h1>
 
-:brazil:
+<img align="center" alt="Brasil" height="40" width="40" src="./assets/icons/brazil.svg">
 
 Sou desenvolvedor full-stack focado em Javascript sendo um estudante eterno procurando constante aperfeiçoamento, trabalhando para obter reconhecimento e atingir os melhores resultados e objetivos indo em busca do crescimento pessoal e profissional mas mantendo o foco. Enxergo os desafios como oportunidades de criar novas soluções e otimizar processos.
 
@@ -16,9 +16,9 @@ Dentre os projetos que participei na minha carreira:
 
 - Participação na concepção de telas do app da [TORA Transportes LTDA](https://tora.com.br/) e do portal utilizado internamente pelos colaboradoores com mais de 4 mil usuários ativos.
 
-------
+---
 
-:us:
+<img align="center" alt="Brasil" height="40" width="40" src="./assets/icons/us.svg">
 
 I'm a full-stack developer focused on Javascript, being an eternal student looking for constant improvement, working to get recognition and achieve the best results and goals going in search of personal and professional growth but keeping the focus. I see challenges as opportunities to create new solutions and optimize processes.
 
