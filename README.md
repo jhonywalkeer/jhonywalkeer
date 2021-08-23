@@ -4,7 +4,7 @@
     <img width="100%" title="PACMAN - Commits" src="./assets/animations/fundo-pac.svg" />
 </h1>
 
-Sou desenvolvedor full-stack focado em Javascript sendo um estudante eterno procurando constante aperfeiçoamento, trabalhando para obter reconhecimento e atingir os melhores resultados e objetivos indo em busca do crescimento pessoal e profissional mas mantendo o foco. Enxergo os desafios como oportunidades de criar novas soluções e otimizar processos.
+Sou desenvolvedor full-stack focado em Javascript sendo um eterno estudante procurando constante aperfeiçoamento, trabalhando para obter reconhecimento e atingir os melhores resultados e objetivos indo em busca do crescimento pessoal e profissional mas mantendo o foco. Enxergo os desafios como oportunidades de criar novas soluções e otimizar processos.
 
 Dentre os projetos que participei na minha carreira:
 
