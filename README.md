@@ -10,7 +10,7 @@ Among the projects I participated in my career:
 
 - Development of a contact list to connect the employees of [TORA Transportes LTDA](https://tora.com.br/) in a simple but effective way, implementing the back-end and front-end part in addition to the implementation of security to avoid changing user information without admin privileges linked to Microsoft Azure.
 
-- Development of the chatbot linked to the [TORA Transportes LTDA] (https://tora.com.br/) app using the basic concepts of UX writing as well as implementations of the external communication used by it.
+- Development of the chatbot linked to the [TORA Transportes LTDA](https://tora.com.br/) app using the basic concepts of UX writing as well as implementations of the external communication used by it.
 
 - Participation in the design of the app screens of [TORA Transportes LTDA](https://tora.com.br/) and the portal used internally by employees with more than 4 thousand active users.
 
