@@ -34,11 +34,14 @@ Among the projects I participated in my career:
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Javascript" height="40" width="40" src="./assets/icons/js.svg">
+<img align="center" alt="Typecript" height="40" width="40" src="./assets/icons/ts.svg">
 <img align="center" alt="ReactJS" height="40" width="40" src="./assets/icons/reactjs.svg">
+<img align="center" alt="React Native" height="40" width="40" src="./assets/icons/reactnative.svg">
 <img align="center" alt="NodeJS" height="40" width="40" src="./assets/icons/nodejs.svg">
+<img align="center" alt="Expo" height="40" width="40" src="./assets/icons/expo.svg">
 <img align="center" alt="Firebase" height="40" width="40" src="./assets/icons/firebase.svg">
 <img align="center" alt="MongoDB" height="40" width="40" src="./assets/icons/mongodb.svg">
-<img align="center" alt="MongoDB" height="40" width="40" src="./assets/icons/sql.svg">
+<img align="center" alt="SQL Server" height="40" width="40" src="./assets/icons/sql.svg">
 </div><br>
 
 ## Softwares e sistemas
