@@ -39,6 +39,7 @@ Among the projects I participated in my career:
 <img align="center" alt="React Native" height="40" width="40" src="./assets/icons/reactnative.svg">
 <img align="center" alt="NodeJS" height="40" width="40" src="./assets/icons/nodejs.svg">
 <img align="center" alt="Expo" height="40" width="40" src="./assets/icons/expo.svg">
+<img align="center" alt="Express" height="40" width="40" src="./assets/icons/ex.svg">
 <img align="center" alt="Firebase" height="40" width="40" src="./assets/icons/firebase.svg">
 <img align="center" alt="MongoDB" height="40" width="40" src="./assets/icons/mongodb.svg">
 <img align="center" alt="SQL Server" height="40" width="40" src="./assets/icons/sql.svg">
