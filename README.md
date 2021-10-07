@@ -41,6 +41,7 @@ Among the projects I participated in my career:
 <img align="center" alt="Expo" height="40" width="40" src="./assets/icons/expo.svg">
 <img align="center" alt="Express" height="40" width="40" src="./assets/icons/ex.svg">
 <img align="center" alt="PM2" height="40" width="40" src="./assets/icons/pm2.svg">
+<img align="center" alt="Docker" height="40" width="40" src="./assets/icons/docker.svg">
 <img align="center" alt="Firebase" height="40" width="40" src="./assets/icons/firebase.svg">
 <img align="center" alt="MongoDB" height="40" width="40" src="./assets/icons/mongodb.svg">
 <img align="center" alt="SQL Server" height="40" width="40" src="./assets/icons/sql.svg">
