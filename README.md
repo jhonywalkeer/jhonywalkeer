@@ -1,5 +1,11 @@
 ### Prazer, eu sou o Jhony Walker 💻
 
+<br>
+<div align="center">
+    <a href="https://gist.github.com/jhonywalkeer" target="_blank"><img align="center" alt="Gist" src="./assets/badges/badge-gist.svg"> </a>
+    <a href="" target="_blank"><img align="center" alt="Javascript" src="./assets/badges/badge-stack.svg"> </a>
+</div>
+<br>
 <h1 align="center">
     <img width="100%" title="PACMAN - Commits" src="./assets/animations/fundo-pac.svg" />
 </h1>
