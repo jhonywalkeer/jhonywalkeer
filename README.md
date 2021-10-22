@@ -51,6 +51,7 @@ Among the projects I participated in my career:
 <img align="center" alt="Firebase" height="40" width="40" src="./assets/icons/firebase.svg">
 <img align="center" alt="MongoDB" height="40" width="40" src="./assets/icons/mongodb.svg">
 <img align="center" alt="SQL Server" height="40" width="40" src="./assets/icons/sql.svg">
+<img align="center" alt="SQL Server" height="40" width="40" src="./assets/icons/sqlite.svg">
 </div><br>
 
 ## Softwares e sistemas
