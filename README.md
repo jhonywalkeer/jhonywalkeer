@@ -3,7 +3,7 @@
 <br>
 <div align="center">
     <a href="https://gist.github.com/jhonywalkeer" target="_blank"><img align="center" alt="Gist" src="./assets/badges/badge-gist.svg"> </a>
-    <a href="" target="_blank"><img align="center" alt="Javascript" src="./assets/badges/badge-stack.svg"> </a>
+    <a href="https://stackoverflow.com/users/16863356/jhony-walker" target="_blank"><img align="center" alt="Javascript" src="./assets/badges/badge-stack.svg"> </a>
 </div>
 <br>
 <h1 align="center">
@@ -51,7 +51,6 @@ Among the projects I participated in my career:
 <img align="center" alt="Firebase" height="40" width="40" src="./assets/icons/firebase.svg">
 <img align="center" alt="MongoDB" height="40" width="40" src="./assets/icons/mongodb.svg">
 <img align="center" alt="SQL Server" height="40" width="40" src="./assets/icons/sql.svg">
-<img align="center" alt="SQL Server" height="40" width="40" src="./assets/icons/sqlite.svg">
 </div><br>
 
 ## Softwares e sistemas
