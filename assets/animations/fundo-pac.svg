@@ -108,15 +108,15 @@
       <rect width="12" height="12" rx="2" fill="#9BE9A8" transform="translate(184 48)" />
       <rect width="12" height="12" rx="2" fill="#9BE9A8" transform="translate(208 48)" />
       <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(232 48)" />
-      <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(136 48)" />
-      <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(112 48)" />
-      <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(64 48)" />
-      <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(64 26)" />
-      <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(40 26)" />
-      <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(16 26)" />
-      <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(88 26)" />
-      <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(112 26)" />
-      <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(136 26)" />
+      <rect width="12" height="12" rx="2" fill="#216E39" transform="translate(136 48)" />
+      <rect width="12" height="12" rx="2" fill="#216E39" transform="translate(112 48)" />
+      <rect width="12" height="12" rx="2" fill="#216E39" transform="translate(64 48)" />
+      <rect width="12" height="12" rx="2" fill="#216E39" transform="translate(64 26)" />
+      <rect width="12" height="12" rx="2" fill="#216E39" transform="translate(40 26)" />
+      <rect width="12" height="12" rx="2" fill="#216E39" transform="translate(16 26)" />
+      <rect width="12" height="12" rx="2" fill="#9BE9A8" transform="translate(88 26)" />
+      <rect width="12" height="12" rx="2" fill="#9BE9A8" transform="translate(112 26)" />
+      <rect width="12" height="12" rx="2" fill="#9BE9A8" transform="translate(136 26)" />
       <rect width="12" height="12" rx="2" fill="#216E39" transform="translate(160 26)" />
       <rect width="12" height="12" rx="2" fill="#216E39" transform="translate(184 26)" />
       <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(208 26)" />
@@ -124,12 +124,12 @@
       <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(256 26)" />
       <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(280 26)" />
       <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(304 26)" />
-      <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(88 139)" />
-      <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(64 139)" />
-      <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(40 139)" />
-      <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(16 139)" />
-      <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(16 116)" />
-      <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(16 92)" />
+      <rect width="12" height="12" rx="2" fill="#216E39" transform="translate(88 139)" />
+      <rect width="12" height="12" rx="2" fill="#216E39" transform="translate(64 139)" />
+      <rect width="12" height="12" rx="2" fill="#216E39" transform="translate(40 139)" />
+      <rect width="12" height="12" rx="2" fill="#216E39" transform="translate(16 139)" />
+      <rect width="12" height="12" rx="2" fill="#216E39" transform="translate(16 116)" />
+      <rect width="12" height="12" rx="2" fill="#216E39" transform="translate(16 92)" />
       <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(328 26)" />
       <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(328 48)" />
       <rect width="12" height="12" rx="2" fill="#EBEDF0" transform="translate(352 48)" />
