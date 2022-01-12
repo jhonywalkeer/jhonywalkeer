@@ -56,8 +56,6 @@ Among the projects I participated in my career:
 <img align="center" alt="SQLite" height="40" width="40" src="./assets/icons/sqllite.png">
 <img align="center" alt="Postgres" height="40" width="40" src="./assets/icons/postgres.svg">
 <img align="center" alt="DynamoDB" height="40" width="40" src="./assets/icons/dynamo.svg">
-<img align="center" alt="SonarQcube" height="40" width="40" src="./assets/icons/sonarqcube.svg">
-<img align="center" alt="Travis CI" height="40" width="40" src="./assets/icons/travis.svg">
 </div><br>
 
 ## Softwares e sistemas
@@ -71,4 +69,6 @@ Among the projects I participated in my career:
 <img align="center" alt="GitHub" height="40" width="40" src="./assets/icons/github.svg">
 <img align="center" alt="GitLab" height="40" width="40" src="./assets/icons/gitlab.svg">
 <img align="center" alt="BitBucket" height="40" width="40" src="./assets/icons/bitbucket.svg">
+<img align="center" alt="SonarQcube" height="40" width="40" src="./assets/icons/sonarqcube.svg">
+<img align="center" alt="Travis CI" height="40" width="40" src="./assets/icons/travis.svg">
 </div><br>
