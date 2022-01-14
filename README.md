@@ -6,6 +6,7 @@
     <a href="https://stackoverflow.com/users/16863356/jhony-walker"><img align="center" alt="Javascript" src="./assets/badges/badge-stack.svg"> </a>
     <a href="https://www.linkedin.com/in/jhony-walker-mak/"><img align="center" alt="LinkedIn" src="./assets/badges/badge-linkedin.svg"> </a>
      <a href="https://dev.to/jhonywalkeer"><img align="center" alt="DEV" src="./assets/badges/badge-dev.svg"> </a>
+     <a href="https://www.hackerrank.com/jhonywalkerfs"><img align="center" alt="HackerRank" src="./assets/badges/badge-hackerrank.svg"> </a>
 </div>
 <br>
 <h1 align="center">
