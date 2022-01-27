@@ -47,6 +47,7 @@ Among the projects I participated in my career:
 <img align="center" alt="ReactJS" height="40" width="40" src="./assets/icons/reactjs.svg">
 <img align="center" alt="React Native" height="40" width="40" src="./assets/icons/reactnative.svg">
 <img align="center" alt="NodeJS" height="40" width="40" src="./assets/icons/nodejs.svg">
+<img align="center" alt="Python" height="40" width="40" src="./assets/icons/python.svg">
 <img align="center" alt="Expo" height="40" width="40" src="./assets/icons/expo.svg">
 <img align="center" alt="Express" height="40" width="40" src="./assets/icons/ex.svg">
 <img align="center" alt="PM2" height="40" width="40" src="./assets/icons/pm2.svg">
@@ -57,6 +58,7 @@ Among the projects I participated in my career:
 <img align="center" alt="SQLite" height="40" width="40" src="./assets/icons/sqllite.png">
 <img align="center" alt="Postgres" height="40" width="40" src="./assets/icons/postgres.svg">
 <img align="center" alt="DynamoDB" height="40" width="40" src="./assets/icons/dynamo.svg">
+<img align="center" alt="ElasticSearch" height="40" width="40" src="./assets/icons/elastichsearch.svg">
 </div><br>
 
 ## Softwares e sistemas
