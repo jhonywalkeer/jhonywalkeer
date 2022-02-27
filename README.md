@@ -15,7 +15,7 @@
 
 <img align="center" alt="Brasil" height="40" width="40" src="./assets/icons/brazil.svg">
 
-Sou desenvolvedor full-stack focado em Javascript sendo um estudante eterno procurando constante aperfeiçoamento, trabalhando para obter reconhecimento e atingir os melhores resultados e objetivos indo em busca do crescimento pessoal e profissional mas mantendo o foco. Enxergo os desafios como oportunidades de criar novas soluções e otimizar processos.
+Sou desenvolvedor full-stack (em busca de ser Engenheiro de Software) focado em Javascript sendo um eterno estudante, procurando constante aperfeiçoamento, trabalhando para obter reconhecimento e atingir os melhores resultados e objetivos indo em busca do crescimento pessoal e profissional mas mantendo o foco. Enxergo os desafios como oportunidades de criar novas soluções e otimizar processos.
 
 Dentre os projetos que participei na minha carreira:
 
@@ -24,6 +24,8 @@ Dentre os projetos que participei na minha carreira:
 - Desenvolvimento do chatbot vinculado ao app da [TORA Transportes LTDA](https://tora.com.br/) utilizando os conceitos básicos de UX writing além de implementações da comunicação externa utilizada pelo mesmo.
 
 - Participação na concepção de telas do app da [TORA Transportes LTDA](https://tora.com.br/) e do portal utilizado internamente pelos colaboradoores com mais de 4 mil usuários ativos.
+
+- Trabalho alocado no cliente pela [Stefanini](https://stefanini.com/pt-br) desenvolvendo novas features fazendo manutenção do app pretencente a [Cencosud](https://www.cencosud.com/pt) onde atuei diretemente em campanhas comemorativas para as bandeiras [Bretas](https://www.bretas.com.br/), [Prezunic](https://www.prezunic.com.br/), [GBarbosa](https://www.gbarbosa.com.br/), [Mercantil](https://www.mercantilrodrigues.com.br/) e [Perini](https://www.perini.com.br/).
 
 ---
 
@@ -38,6 +40,8 @@ Among the projects I participated in my career:
 - Development of the chatbot linked to the [TORA Transportes LTDA](https://tora.com.br/) app using the basic concepts of UX writing as well as implementations of the external communication used by it.
 
 - Participation in the design of the app screens of [TORA Transportes LTDA](https://tora.com.br/) and the portal used internally by employees with more than 4 thousand active users.
+
+- Work allocated to the client by [Stefanini](https://stefanini.com/pt-br) developing new features maintaining the app belonging to [Cencosud](https://www.cencosud.com/pt) where I worked directly in commemorative campaigns for the [Bretas](https://www.bretas.com.br/), [Prezunic](https://www.prezunic.com.br/), [GBarbosa](https://www.gbarbosa.com.br/), [Mercantil](https://www.mercantilrodrigues.com.br/) and [Perini](https://www.perini.com.br/) banners.
 
 ## Tecnologias
 
