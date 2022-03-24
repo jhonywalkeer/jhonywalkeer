@@ -50,7 +50,9 @@ Among the projects I participated in my career:
 <img align="center" alt="Typecript" height="40" width="40" src="./assets/icons/ts.svg">
 <img align="center" alt="ReactJS" height="40" width="40" src="./assets/icons/reactjs.svg">
 <img align="center" alt="React Native" height="40" width="40" src="./assets/icons/reactnative.svg">
+<img align="center" alt="NextJS" height="40" width="40" src="./assets/icons/nextjs.svg">
 <img align="center" alt="NodeJS" height="40" width="40" src="./assets/icons/nodejs.svg">
+<img align="center" alt="NestJS" height="40" width="40" src="./assets/icons/nest.svg">
 <img align="center" alt="Python" height="40" width="40" src="./assets/icons/python.svg">
 <img align="center" alt="Expo" height="40" width="40" src="./assets/icons/expo.svg">
 <img align="center" alt="Express" height="40" width="40" src="./assets/icons/ex.svg">
@@ -64,6 +66,7 @@ Among the projects I participated in my career:
 <img align="center" alt="Postgres" height="40" width="40" src="./assets/icons/postgres.svg">
 <img align="center" alt="DynamoDB" height="40" width="40" src="./assets/icons/dynamo.svg">
 <img align="center" alt="ElasticSearch" height="40" width="40" src="./assets/icons/elastichsearch.svg">
+<img align="center" alt="Vite" height="40" width="40" src="./assets/icons/vite.svg">
 </div><br>
 
 ## Softwares e sistemas
