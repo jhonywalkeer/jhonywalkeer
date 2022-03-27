@@ -52,7 +52,7 @@ Among the projects I participated in my career:
 <img align="center" alt="React Native" height="40" width="40" src="./assets/icons/reactnative.svg">
 <img align="center" alt="NextJS" height="40" width="40" src="./assets/icons/nextjs.svg">
 <img align="center" alt="NodeJS" height="40" width="40" src="./assets/icons/nodejs.svg">
-<img align="center" alt="NestJS" height="40" width="40" src="./assets/icons/nest.svg">
+<img align="center" alt="NestJS" height="40" width="40" src="./assets/icons/nestjs.svg">
 <img align="center" alt="Python" height="40" width="40" src="./assets/icons/python.svg">
 <img align="center" alt="Expo" height="40" width="40" src="./assets/icons/expo.svg">
 <img align="center" alt="Express" height="40" width="40" src="./assets/icons/ex.svg">
