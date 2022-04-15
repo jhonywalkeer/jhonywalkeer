@@ -15,7 +15,7 @@
 
 <img align="center" alt="Brasil" height="40" width="40" src="./assets/icons/brazil.svg">
 
-Sou desenvolvedor full-stack (em busca de ser Engenheiro de Software) focado em Javascript sendo um eterno estudante, procurando constante aperfeiçoamento, trabalhando para obter reconhecimento e atingir os melhores resultados e objetivos indo em busca do crescimento pessoal e profissional mas mantendo o foco. Enxergo os desafios como oportunidades de criar novas soluções e otimizar processos.
+Sou Engenheiro de Software focado em Javascript sendo um eterno estudante, procurando constante aperfeiçoamento, trabalhando para obter reconhecimento e atingir os melhores resultados e objetivos indo em busca do crescimento pessoal e profissional mas mantendo o foco. Enxergo os desafios como oportunidades de criar novas soluções e otimizar processos.
 
 Dentre os projetos que participei na minha carreira:
 
@@ -31,7 +31,7 @@ Dentre os projetos que participei na minha carreira:
 
 <img align="center" alt="Brasil" height="40" width="40" src="./assets/icons/us.svg">
 
-I'm a full-stack developer focused on Javascript, being an eternal student looking for constant improvement, working to get recognition and achieve the best results and goals going in search of personal and professional growth but keeping the focus. I see challenges as opportunities to create new solutions and optimize processes.
+I'm a Sofware Engineer focused on Javascript, being an eternal student looking for constant improvement, working to get recognition and achieve the best results and goals going in search of personal and professional growth but keeping the focus. I see challenges as opportunities to create new solutions and optimize processes.
 
 Among the projects I participated in my career:
 
