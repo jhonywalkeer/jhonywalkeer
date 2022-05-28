@@ -13,7 +13,7 @@
 </h1>
 
 <div align="center">
-    <img src=https://komarev.com/ghpvc/?username=jhonywalkeer&style=for-the-badge width="15%">
+    <img src=https://komarev.com/ghpvc/?username=jhonywalkeer&style=for-the-badge width="20%">
 </div>
 
 <img align="center" alt="Brasil" height="40" width="40" src="./assets/icons/br.svg">
