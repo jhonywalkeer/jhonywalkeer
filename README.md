@@ -1,5 +1,3 @@
-### Prazer, eu sou o Jhony Walker 💻
-
 <br>
 <div align="center">
     <a href="https://gist.github.com/jhonywalkeer"><img align="center" alt="Gist" src="./assets/badges/badge-gist.svg"> </a>
@@ -13,7 +11,7 @@
     <img width="100%" title="PACMAN - Commits" src="./assets/animations/fundo-pac.svg" />
 </h1>
 
-<img align="center" alt="Brasil" height="40" width="40" src="./assets/icons/brazil.svg">
+<img align="center" alt="Brasil" height="40" width="40" src="./assets/icons/br.svg">
 
 Sou Engenheiro de Software focado em Javascript sendo um eterno estudante, procurando constante aperfeiçoamento, trabalhando para obter reconhecimento e atingir os melhores resultados e objetivos indo em busca do crescimento pessoal e profissional mas mantendo o foco. Enxergo os desafios como oportunidades de criar novas soluções e otimizar processos.
 
@@ -43,43 +41,6 @@ Among the projects I participated in my career:
 
 - Work allocated to the client by [Stefanini](https://stefanini.com/pt-br) developing new features maintaining the app belonging to [Cencosud](https://www.cencosud.com/pt) where I worked directly in commemorative campaigns for the [Bretas](https://www.bretas.com.br/), [Prezunic](https://www.prezunic.com.br/), [GBarbosa](https://www.gbarbosa.com.br/), [Mercantil](https://www.mercantilrodrigues.com.br/) and [Perini](https://www.perini.com.br/) banners.
 
-## Tecnologias
-
 <div style="display: inline_block"><br>
-<img align="center" alt="Javascript" height="40" width="40" src="./assets/icons/js.svg">
-<img align="center" alt="Typecript" height="40" width="40" src="./assets/icons/ts.svg">
-<img align="center" alt="ReactJS" height="40" width="40" src="./assets/icons/reactjs.svg">
-<img align="center" alt="React Native" height="40" width="40" src="./assets/icons/reactnative.svg">
-<img align="center" alt="NextJS" height="40" width="40" src="./assets/icons/nextjs.svg">
-<img align="center" alt="NodeJS" height="40" width="40" src="./assets/icons/nodejs.svg">
-<img align="center" alt="NestJS" height="40" width="40" src="./assets/icons/nestjs.svg">
-<img align="center" alt="Python" height="40" width="40" src="./assets/icons/python.svg">
-<img align="center" alt="Expo" height="40" width="40" src="./assets/icons/expo.svg">
-<img align="center" alt="Express" height="40" width="40" src="./assets/icons/ex.svg">
-<img align="center" alt="PM2" height="40" width="40" src="./assets/icons/pm2.svg">
-<img align="center" alt="SocketIO" height="40" width="40" src="./assets/icons/socketio.svg">
-<img align="center" alt="Docker" height="40" width="40" src="./assets/icons/docker.svg">
-<img align="center" alt="Firebase" height="40" width="40" src="./assets/icons/firebase.svg">
-<img align="center" alt="MongoDB" height="40" width="40" src="./assets/icons/mongodb.svg">
-<img align="center" alt="SQL Server" height="40" width="40" src="./assets/icons/sql.svg">
-<img align="center" alt="SQLite" height="40" width="40" src="./assets/icons/sqllite.png">
-<img align="center" alt="Postgres" height="40" width="40" src="./assets/icons/postgres.svg">
-<img align="center" alt="DynamoDB" height="40" width="40" src="./assets/icons/dynamo.svg">
-<img align="center" alt="ElasticSearch" height="40" width="40" src="./assets/icons/elastichsearch.svg">
-<img align="center" alt="Vite" height="40" width="40" src="./assets/icons/vite.svg">
-</div><br>
-
-## Softwares e sistemas
-
-<div style="display: inline_block"><br>
-<img align="center" alt="Visual Studio Code" height="40" width="40" src="./assets/icons/vscode.svg">
-<img align="center" alt="Visual Studio Code" height="40" width="40" src="./assets/icons/azure.svg">
-<img align="center" alt="Figma" height="40" width="40" src="./assets/icons/figma.svg">
-<img align="center" alt="Adobe Photoshop" height="40" width="40" src="./assets/icons/ps.svg">
-<img align="center" alt="Adobe Illustrator" height="40" width="40" src="./assets/icons/ai.svg">
-<img align="center" alt="GitHub" height="40" width="40" src="./assets/icons/github.svg">
-<img align="center" alt="GitLab" height="40" width="40" src="./assets/icons/gitlab.svg">
-<img align="center" alt="BitBucket" height="40" width="40" src="./assets/icons/bitbucket.svg">
-<img align="center" alt="SonarQcube" height="40" width="40" src="./assets/icons/sonarqcube.svg">
-<img align="center" alt="Travis CI" height="40" width="40" src="./assets/icons/travis.svg">
+<img align="center" alt="My Techs" src="./assets/icons/techs.svg">
 </div><br>
