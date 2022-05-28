@@ -3,13 +3,18 @@
     <a href="https://gist.github.com/jhonywalkeer"><img align="center" alt="Gist" src="./assets/badges/badge-gist.svg"> </a>
     <a href="https://stackoverflow.com/users/16863356/jhony-walker"><img align="center" alt="Javascript" src="./assets/badges/badge-stack.svg"> </a>
     <a href="https://www.linkedin.com/in/jhony-walker-mak/"><img align="center" alt="LinkedIn" src="./assets/badges/badge-linkedin.svg"> </a>
-     <a href="https://dev.to/jhonywalkeer"><img align="center" alt="DEV" src="./assets/badges/badge-dev.svg"> </a>
-     <a href="https://www.hackerrank.com/jhonywalkerfs"><img align="center" alt="HackerRank" src="./assets/badges/badge-hackerrank.svg"> </a>
+    <a href="https://dev.to/jhonywalkeer"><img align="center" alt="DEV" src="./assets/badges/badge-dev.svg"> </a>
+    <a href="https://www.hackerrank.com/jhonywalkerfs"><img align="center" alt="HackerRank" src="./assets/badges/badge-hackerrank.svg"> </a>
 </div>
 <br>
+
 <h1 align="center">
     <img width="100%" title="PACMAN - Commits" src="./assets/animations/fundo-pac.svg" />
 </h1>
+
+<div align="center">
+    <img src=https://komarev.com/ghpvc/?username=jhonywalkeer&style=for-the-badge width="15%">
+</div>
 
 <img align="center" alt="Brasil" height="40" width="40" src="./assets/icons/br.svg">
 
