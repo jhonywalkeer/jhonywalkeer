@@ -16,8 +16,6 @@
     <img src=https://komarev.com/ghpvc/?username=jhonywalkeer&style=for-the-badge width="20%">
 </div>
 
-<img align="center" alt="Brasil" height="40" width="40" src="./assets/icons/br.svg">
-
 Sou Engenheiro de Software focado em Javascript sendo um eterno estudante, procurando constante aperfeiçoamento, trabalhando para obter reconhecimento e atingir os melhores resultados e objetivos indo em busca do crescimento pessoal e profissional mas mantendo o foco. Enxergo os desafios como oportunidades de criar novas soluções e otimizar processos.
 
 Dentre os projetos que participei na minha carreira:
