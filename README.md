@@ -47,4 +47,4 @@ Among the projects I participated in my career:
 
 <div style="display: inline_block"><br>
 <img align="center" alt="My Techs" src="./assets/icons/techs.svg">
-</div><br>
+</div> <br/>
