@@ -1,21 +1,8 @@
 <br>
-<div align="center">
-    <a href="https://gist.github.com/jhonywalkeer"><img align="center" alt="Gist" src="./assets/badges/badge-gist.svg"> </a>
-    <a href="https://stackoverflow.com/users/16863356/jhony-walker"><img align="center" alt="Javascript" src="./assets/badges/badge-stack.svg"> </a>
-    <a href="https://www.linkedin.com/in/jhony-walker-mak/"><img align="center" alt="LinkedIn" src="./assets/badges/badge-linkedin.svg"> </a>
-    <a href="#"><img align="center" alt="Blog and Portifolio" src="./assets/badges/badge-blog-portifolio.svg"> </a>
-    <a href="https://www.credly.com/users/jhony-walker/badges"><img align="center" alt="HackerRank" src="./assets/badges/badge-credly.svg"> </a>
-    <a href="https://www.hackerrank.com/jhonywalkerfs"><img align="center" alt="HackerRank" src="./assets/badges/badge-hackerrank.svg"> </a>
-</div>
-<br>
 
 <h1 align="center">
     <img width="100%" title="PACMAN - Commits" src="./assets/animations/fundo-pac.svg" />
 </h1>
-
-<div align="center">
-    <img src=https://komarev.com/ghpvc/?username=jhonywalkeer&style=for-the-badge width="20%">
-</div>
 
 Sou Engenheiro de Software focado em Javascript sendo um eterno estudante, procurando constante aperfeiçoamento, trabalhando para obter reconhecimento e atingir os melhores resultados e objetivos indo em busca do crescimento pessoal e profissional mas mantendo o foco. Enxergo os desafios como oportunidades de criar novas soluções e otimizar processos.
 
